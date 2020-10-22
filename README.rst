@@ -50,12 +50,6 @@ This add-on can be seen in action at the following sites:
 - https://www.unitracc.com
 
 
-Documentation
--------------
-
-Full documentation for end users can be found in the "docs" folder.
-
-
 Installation and usage
 ----------------------
 
@@ -78,8 +72,8 @@ dictionary.
 Contribute
 ----------
 
-- Issue Tracker: https://github.com/visaplan/visaplan.plone.infohubs/issues
-- Source Code: https://github.com/visaplan/visaplan.plone.infohubs
+- Issue Tracker: https://github.com/visaplan/plone.infohubs/issues
+- Source Code: https://github.com/visaplan/plone.infohubs
 
 
 Support
@@ -94,7 +88,7 @@ License
 
 The project is licensed under the GPLv2.
 
-.. _`issue tracker`: https://github.com/visaplan/PACKAGE/issues
+.. _`issue tracker`: https://github.com/visaplan/plone.infohubs/issues
 .. _Plone: https://plone.org/
 .. _`visaplan GmbH`: http://visaplan.com
 
